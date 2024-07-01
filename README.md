@@ -9,9 +9,8 @@
 
 ## 서비스 링크
 
-1. [베타 서비스 링크](https://dev.dadamda.me/)
-2. [베타 서비스 신청 링크](https://forms.gle/rrqnNShVxzaRkQvq9)
-3. [크롬 익스텐션](https://chrome.google.com/webstore/detail/dadamda/kgaiabolccidmgihificdfaimdlfmcfj?hl=ko)
+1. [서비스 링크](https://dadamda.me/)
+2. [크롬 익스텐션](https://chrome.google.com/webstore/detail/dadamda/kgaiabolccidmgihificdfaimdlfmcfj?hl=ko)
 
 ## 시작 가이드
 ```
